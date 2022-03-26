@@ -8,5 +8,5 @@ fun main() {
         println("Понравилось $likes $phrase")
         println((likes - 1) % 10)
     }
-    println("Досвидания")
+    println("Всего хорошего!")
 }
